@@ -1,4 +1,4 @@
-name: museodeljuguetebogota
+name: Museo del Juguete Bogota
 favicon: null
 layout_spectrum: 0.25435
 typography_spectrum: 0.73404
@@ -22,7 +22,7 @@ color:
     - '#ebc63b'
     - '#fff9ff'
     - '#de9335'
-  brandStrength: 0.6464429721236229
+  brandStrength: 0
   lightness: 0.5127024513203651
   saturation: 0.07432706304825842
   rhythmicContrast: 0.2309289372060448
