@@ -1,6 +1,6 @@
 name: El Trompetero Feliz
 favicon: null
-layout_spectrum: 0.24081
+layout_spectrum: 0
 typography_spectrum: 0.5058
 title: Inicio
 cta:
@@ -24,6 +24,6 @@ color:
     - '#4c628b'
   brandStrength: 0
   lightness: 0.5127024513203651
-  saturation: 0.07432706304825842
+  saturation: 0
   rhythmicContrast: 0.2309289372060448
 purpose: []
