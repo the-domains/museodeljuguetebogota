@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[museodeljuguetebogota]]></title>
-        <description><![CDATA[museodeljuguetebogota]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Inicio]]></title>
+        <description><![CDATA[Inicio]]></description>
+        <link>https://thegrid.ai/museodeljuguetebogota/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 23:32:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 21 May 2016 00:18:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/museodeljuguetebogota/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfc0bf15-b62c-4902-b899-31f2d9349e59.jpg">]]></description>
+            <link>https://thegrid.ai/museodeljuguetebogota/que-carro-te-gustaria-tener/index.html</link>
+            <guid isPermaLink="false">097dad91-07f0-460d-a4f1-831dd330ff87</guid>
+            <pubDate>Sat, 21 May 2016 00:17:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Museo del Juguete de Bogota]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfc6a18d-36c1-476c-b54a-2e93021f4be8.jpg">]]></description>
-            <link>undefinedmuseo-del-juguete-de-bogota/index.html</link>
+            <link>https://thegrid.ai/museodeljuguetebogota/museo-del-juguete-de-bogota/index.html</link>
             <guid isPermaLink="false">6f26af9b-b2c6-4956-bc02-d8166a36b57d</guid>
             <pubDate>Fri, 20 May 2016 23:32:22 GMT</pubDate>
         </item>
