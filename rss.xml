@@ -4,8 +4,15 @@
         <description><![CDATA[Inicio]]></description>
         <link>https://thegrid.ai/museodeljuguetebogota/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 00:55:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 00:59:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/museodeljuguetebogota/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EL CARRO DE LATA]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6c800b1-f749-4a0e-be5d-ff757de89dac.jpg">]]></description>
+            <link>https://thegrid.ai/museodeljuguetebogota/historia/index.html</link>
+            <guid isPermaLink="false">c35b998d-db55-4496-8dd4-8b4527275f30</guid>
+            <pubDate>Sat, 21 May 2016 00:59:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Que carro te gustaría tener? ]]></title>
             <description><![CDATA[<article><h1>Que carro te gustaría tener? </h1><p>uno para viajar por una montaña</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/407b08ba2d73d53c9fa4afcca8523a8ece0ba6c9.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/museodeljuguetebogota/los-ninos-y-sus-juegos/index.html</link>
             <guid isPermaLink="false">64c02d36-26d1-4520-8f91-902e50bfd361</guid>
             <pubDate>Sat, 21 May 2016 00:54:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HISTORIA]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6c800b1-f749-4a0e-be5d-ff757de89dac.jpg">]]></description>
-            <link>https://thegrid.ai/museodeljuguetebogota/historia/index.html</link>
-            <guid isPermaLink="false">c35b998d-db55-4496-8dd4-8b4527275f30</guid>
-            <pubDate>Sat, 21 May 2016 00:51:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
