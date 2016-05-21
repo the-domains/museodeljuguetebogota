@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Que carro te gustaría tener?
-datePublished: '2016-05-21T00:17:49.334Z'
-dateModified: '2016-05-21T00:17:34.169Z'
+datePublished: '2016-05-21T00:22:01.482Z'
+dateModified: '2016-05-21T00:21:42.897Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-21-que-carro-te-gustaria-tener.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-05-21-que-carro-te-gustaria-tener.md
+starred: true
 url: que-carro-te-gustaria-tener/index.html
 _type: Article
 
@@ -20,7 +20,6 @@ _type: Article
 Que carro te gustaría tener?
 
 uno para viajar por una montaña
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfc0bf15-b62c-4902-b899-31f2d9349e59.jpg)
 
 o muchos muchos .....
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73b692fe-e2af-4099-ad46-7c4090e51500.jpg)
