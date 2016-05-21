@@ -1,4 +1,4 @@
-name: Museo del Juguete Bogota
+name: El Trompetero Feliz
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.5058
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#a6dad8'
-    - '#df3e34'
-    - '#ebc63b'
-    - '#fff9ff'
-    - '#de9335'
+    - '#fdf500'
+    - '#191a2c'
+    - '#e31306'
+    - '#ff665c'
+    - '#4c628b'
   brandStrength: 0
   lightness: 0.5127024513203651
   saturation: 0.07432706304825842
